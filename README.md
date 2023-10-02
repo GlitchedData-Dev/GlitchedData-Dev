@@ -5,5 +5,5 @@ Go check it out [here](https://www.github.com/j-trueman/PTZ-Optics)
 
 I'm currently learning (trying to learn):
  - React <img src="https://tse2.mm.bing.net/th/id/OIP.K-4RqDC6zFrpAG31ayDDOgHaHa?pid=ImgDet&rs=1" width="13">
- - Electron <img scr="https://www.electronjs.org/assets/img/logo.svg" width="13">
+ - Electron <img scr="https://download.logo.wine/logo/Electron_(software_framework)/Electron_(software_framework)-Logo.wine.png" width="13">
  - JavaScript <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="13"> (i'm always learning new stuff abt javascript)
