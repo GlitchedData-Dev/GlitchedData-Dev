@@ -7,7 +7,6 @@ I'm currently learning (trying to learn):
  - <img src="https://tse2.mm.bing.net/th/id/OIP.K-4RqDC6zFrpAG31ayDDOgHaHa?pid=ImgDet&rs=1" width="15"> React 
  - <img src="https://www.electronjs.org/assets/img/logo.svg" width="15"> Electron
  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="15"> JavaScript
-(Might try learn C or C++ soon)
 
 I'm currently studying:
  - 🖥️ ComSci
@@ -15,3 +14,4 @@ I'm currently studying:
  - 🎼 Music
  - 📷 Photography
 
+(Might try learn C or C++ soon)
