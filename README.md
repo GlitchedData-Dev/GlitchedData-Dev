@@ -10,9 +10,6 @@ I'm currently learning (trying to learn):
  - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="15"> JavaScript
 
 I'm currently studying:
- - 🖥️ ComSci
- - 🐉 CyberSecurity
- - 🎼 Music
- - 📷 Photography
+ - Bsc(hons) Ethical Hacking
 
 (Might try learn C or C++ soon)
